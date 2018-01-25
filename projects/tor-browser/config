@@ -49,8 +49,6 @@ input_files:
     name: firefox-langpacks
   - project: tor-launcher
     name: tor-launcher
-  - project: torbutton
-    name: torbutton
   - project: https-everywhere
     name: https-everywhere
   - project: fonts
